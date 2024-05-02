@@ -1,0 +1,4 @@
+*.o
+bin
+client_out.js
+.sconsign.dblite
